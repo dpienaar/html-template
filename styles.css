@@ -1,2 +1,23 @@
 /* CSS styles */
-
+p {color: black;
+background-color: e2e2e2;
+font-family: 'Arial';
+font-size:120%;
+margin:3px;
+padding:5px;}
+img{float-offset;
+height:300px;width:50%}
+div {color: green;
+background-color: e2e2e2;
+font-family: 'Arial';
+font-size:120%;
+margin:3px;
+border: 2px solid darkgreen;
+padding:5px;}
+text {background-color:blue;}
+h2{color:darkblue;}
+h3{color:black;}
+ch{colour:purple; font-size:180%; text-align:left;}
+img{colour:green; image-orientation:center;}
+div.LO{text-align:center; font-size:180%; color:darkblue;}
+div.h2.LO{color:pink;}
